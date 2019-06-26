@@ -81,7 +81,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                   Allah O Akbar 
+                   <h1>Madina</h1>
                 </div>
 
                 <div class="links">
