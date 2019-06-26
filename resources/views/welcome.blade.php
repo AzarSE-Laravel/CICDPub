@@ -82,7 +82,7 @@
             <div class="content">
                 <div class="title m-b-md">
                    Allah O Akbar 
-                   <h1>Madina</h1>
+                   <h6>Madina</h6>
                 </div>
 
                 <div class="links">
